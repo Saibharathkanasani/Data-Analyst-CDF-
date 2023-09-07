@@ -2,7 +2,9 @@
 This is a repository where I store all my code and insights when I worked as Voulnteer Data Analyst at Community Dreams Foundation. This could be an reference for the new volunteer data analyst candidates. 
 P.S It was legally approved by the Organization.
 # What was the primary goal or objective of the project?
-Extract the Incentive programs data of Atlanta City it includes all 115 zipcodes.
+The objective is to develop a recommendation engine for incentives offered in five states (GA, AZ, CO, FL, and OL) that will recommend incentives to consumers based on their qualifying requirements.
+Task 1:Extract the Incentive programs data of Atlanta City it includes all 115 zipcodes.
+Task 2:Have to clean the extracted incentive programs data.
 # What technology stack did you use for your project?
 Selenium, BeautifulSoup, Python, ChatGPT prompt, Youtube and recent webscrapping blogs
 # Were there any specific challenges you encountered during the development? How did you address them?
