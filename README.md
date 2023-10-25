@@ -15,3 +15,5 @@ No further documentation is needed for my code because I have already written co
 There are no third party tool or API'S used.
 # Is their any suggestion for completing the projcet?
 Before you starting your project have a look at the website try to find out what kind of programming langugae and technique they used to build the website and stored the data because every website has built in different format. If you do this you will get an better idea over the website you are trying to scrap.# Note: Please gothrough the website privacy details because some websites will need to take the legal permission to scrap the data. 
+# Is their any Road Map for Data Analysis lifecycle in CDF? 
+Yes I have attached an powerpoint presentation to the reposistary. Please use the presentation slides to have a basic understanding of how the lifecycle works.
