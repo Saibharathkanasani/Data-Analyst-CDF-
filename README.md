@@ -1,4 +1,4 @@
-# Big Data Developer/Analyst-CDF-
+# Data Engineer/Analyst-CDF-
 This is a repository where I store all my code and insights when I worked as Voulnteer Data Analyst at Community Dreams Foundation. This could be an reference for the new volunteer data analyst candidates. 
 P.S It was legally approved by the Organization.
 # What was the primary goal or objective of the project?
